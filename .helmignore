@@ -1,0 +1,4 @@
+# helmignore file
+.helmignore
+# git path
+.git
